@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Studying as a hobby</title>
+    <link href="https://github.com/studyingasahobby/studyingasahobby/feed.xml" rel="self" />
+    <link href="https://github.com/studyingasahobby/studyingasahobby" />
+    <updated>2024-04-30T16:54:58+02:00</updated>
+    <author>
+        <name>Larissa Iris</name>
+    </author>
+    <id>https://github.com/studyingasahobby/studyingasahobby</id>
+
+    <entry>
+        <title>dededede</title>
+        <author>
+            <name>Larissa Iris</name>
+        </author>
+        <link href="https://github.com/studyingasahobby/studyingasahobby/dededede.html"/>
+        <id>https://github.com/studyingasahobby/studyingasahobby/dededede.html</id>
+
+        <updated>2024-04-30T16:54:58+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>test 1</title>
+        <author>
+            <name>Larissa Iris</name>
+        </author>
+        <link href="https://github.com/studyingasahobby/studyingasahobby/test-1.html"/>
+        <id>https://github.com/studyingasahobby/studyingasahobby/test-1.html</id>
+
+        <updated>2024-04-30T16:43:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    dfdfdsfdsfs dssdsds fdfdfddffc
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dfdfdsfdsfs</p>
+<p>dssdsds</p>
+<p> </p>
+<blockquote>
+<p>fdfdfddffc</p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Studying as a hobby",
+    "description": "",
+    "home_page_url": "https://github.com/studyingasahobby/studyingasahobby",
+    "feed_url": "https://github.com/studyingasahobby/studyingasahobby/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/studyingasahobby/studyingasahobby/media/website/Rustic-Minimal-Wedding-Print-Banner-2-2.png",
+    "author": {
+        "name": "Larissa Iris"
+    },
+    "items": [
+        {
+            "id": "https://github.com/studyingasahobby/studyingasahobby/dededede.html",
+            "url": "https://github.com/studyingasahobby/studyingasahobby/dededede.html",
+            "title": "dededede",
+            "author": {
+                "name": "Larissa Iris"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-30T16:54:58+02:00",
+            "date_modified": "2024-04-30T16:54:58+02:00"
+        },
+        {
+            "id": "https://github.com/studyingasahobby/studyingasahobby/test-1.html",
+            "url": "https://github.com/studyingasahobby/studyingasahobby/test-1.html",
+            "title": "test 1",
+            "summary": "dfdfdsfdsfs dssdsds fdfdfddffc",
+            "content_html": "<p>dfdfdsfdsfs</p>\n<p>dssdsds</p>\n<p> </p>\n<blockquote>\n<p>fdfdfddffc</p>\n</blockquote>\n<p> </p>",
+            "author": {
+                "name": "Larissa Iris"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-30T16:43:04+02:00",
+            "date_modified": "2024-04-30T16:43:04+02:00"
+        }
+    ]
+}
