@@ -3,12 +3,32 @@
     <title>Studying as a hobby</title>
     <link href="https://studyingasahobby.github.io/studyingasahobby/feed.xml" rel="self" />
     <link href="https://studyingasahobby.github.io/studyingasahobby" />
-    <updated>2024-04-30T16:54:58+02:00</updated>
+    <updated>2024-05-01T21:02:53+02:00</updated>
     <author>
         <name>Larissa Iris</name>
     </author>
     <id>https://studyingasahobby.github.io/studyingasahobby</id>
 
+    <entry>
+        <title>TEST 2</title>
+        <author>
+            <name>Larissa Iris</name>
+        </author>
+        <link href="https://studyingasahobby.github.io/studyingasahobby/test-2.html"/>
+        <id>https://studyingasahobby.github.io/studyingasahobby/test-2.html</id>
+
+        <updated>2024-05-01T21:02:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ASNDLKSAD;LKSAMD
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ASNDLKSAD;LKSAMD</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>dededede</title>
         <author>
